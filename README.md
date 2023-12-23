@@ -1,1 +1,1 @@
-I am Aavash, a frontend web developer based in Toronto.
+Hi, I'm Aavash Chapagain. A passionate Front-end Developer based in Toronto, Canada. 📍
